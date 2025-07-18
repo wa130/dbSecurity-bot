@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bb777217-fcfd-4663-9f70-f67715d2f0fc",
+    "nama": "tesbot",
+    "token_tele": "8002044699:AAEVroPIi9p_ybu31ScCQ5lXUOp7knkg3y8\"",
+    "ip": "::1",
+    "user_agent": "node",
+    "waktu": "2025-07-11T03:44:38.228Z"
+  },
+  {
+    "id": "407ae3af-274a-44b0-9843-e12e9aae0fbb",
+    "nama": "tesbot",
+    "token_tele": "8002044699:AAEVroPIi9p_ybu31ScCQ5lXUOp7knkg3y8",
+    "ip": "::1",
+    "user_agent": "node",
+    "waktu": "2025-07-11T03:48:38.632Z"
+  },
+  {
+    "id": "227c05ca-bb4d-4dbc-a373-993f7ce108ea",
+    "nama": "natan",
+    "token_tele": "8104553196:AAFTdoSICH1g5HyAL9e52rITF1HAw7SAUSE",
+    "ip": "::ffff:127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+    "waktu": "2025-07-11T10:25:44.514Z"
+  },
+  {
+    "id": "5c706fda-689f-4f6b-a0b2-c2a1d2a13394",
+    "nama": "lipzRor",
+    "token_tele": "8002044699:AAEVroPIi9p_ybu31ScCQ5lXUOp7knkg3y8",
+    "ip": "::1",
+    "user_agent": "node",
+    "waktu": "2025-07-12T01:44:57.759Z"
+  }
+]
