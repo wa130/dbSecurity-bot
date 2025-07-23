@@ -104,7 +104,7 @@ Then open your browser:
 
 ---
 
-## ??️ Screenshot
+##  Screenshot
 
 Example of the dashboard interface:
 
@@ -114,10 +114,10 @@ Example of the dashboard interface:
 
 ---
 
-## ?? Join Our WhatsApp Channel
+## Join Our WhatsApp Channel
 
 Stay updated with the latest features, tips, and bot news:  
-?? https://whatsapp.com/channel/0029Vb8W9HoB4hdKDbqoWI3m
+ https://whatsapp.com/channel/0029Vb8W9HoB4hdKDbqoWI3m
 
 ---
 
